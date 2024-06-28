@@ -5,39 +5,6 @@
 
 ![Project Logo](STMProjects.png)
 
-The program generates and plots a scatter plot to illustrate the relationship between the average number of cigarettes smoked per day and the incidence of lung cancer. Here's what the plot communicates in layman's terms:
-
-### Plot Overview:
-1. **Scatter Plot**:
-   - The scatter plot shows data points representing individuals' average daily cigarette consumption and whether they have lung cancer.
-
-### Key Points:
-1. **Data Points**:
-   - Each point represents an individual.
-   - The x-axis shows the average number of cigarettes smoked per day.
-   - The y-axis shows whether the individual has lung cancer (1 for cancer, 0 for no cancer).
-
-2. **Correlation Coefficient**:
-   - The correlation coefficient is a measure of the strength and direction of the relationship between smoking and lung cancer.
-   - A strong positive correlation means that as the number of cigarettes smoked per day increases, the likelihood of lung cancer also increases.
-
-3. **Trendline**:
-   - The red line represents the general trend in the data, showing the relationship between smoking and lung cancer incidence.
-
-### Interpretation:
-- **Relationship Between Smoking and Lung Cancer**:
-  - The scatter plot shows that individuals who smoke more cigarettes per day are more likely to have lung cancer.
-  - The strong positive correlation indicates a significant relationship between higher cigarette consumption and lung cancer incidence.
-
-### In Layman's Terms:
-The plot visually explains the relationship between smoking and lung cancer. Each dot represents a person, showing how many cigarettes they smoke daily and whether they have lung cancer.
-
-- People who smoke more cigarettes per day (dots further to the right) are more likely to have lung cancer (dots higher up).
-- The red trendline helps to see this relationship clearly, showing that as smoking increases, so does the chance of getting lung cancer.
-
-This plot helps to understand that smoking more cigarettes per day is strongly associated with a higher risk of lung cancer.
-
-
 ---
 
 ## Table of Contents
@@ -84,6 +51,40 @@ The programs are written on jupiter notebook, You may run the program on Google 
 ![Program Output](output.png)
 
 ![Program Output](output1.png)
+
+The program generates and plots a scatter plot to illustrate the relationship between the average number of cigarettes smoked per day and the incidence of lung cancer. Here's what the plot communicates in layman's terms:
+
+### Plot Overview:
+1. **Scatter Plot**:
+   - The scatter plot shows data points representing individuals' average daily cigarette consumption and whether they have lung cancer.
+
+### Key Points:
+1. **Data Points**:
+   - Each point represents an individual.
+   - The x-axis shows the average number of cigarettes smoked per day.
+   - The y-axis shows whether the individual has lung cancer (1 for cancer, 0 for no cancer).
+
+2. **Correlation Coefficient**:
+   - The correlation coefficient is a measure of the strength and direction of the relationship between smoking and lung cancer.
+   - A strong positive correlation means that as the number of cigarettes smoked per day increases, the likelihood of lung cancer also increases.
+
+3. **Trendline**:
+   - The red line represents the general trend in the data, showing the relationship between smoking and lung cancer incidence.
+
+### Interpretation:
+- **Relationship Between Smoking and Lung Cancer**:
+  - The scatter plot shows that individuals who smoke more cigarettes per day are more likely to have lung cancer.
+  - The strong positive correlation indicates a significant relationship between higher cigarette consumption and lung cancer incidence.
+
+### In Layman's Terms:
+The plot visually explains the relationship between smoking and lung cancer. Each dot represents a person, showing how many cigarettes they smoke daily and whether they have lung cancer.
+
+- People who smoke more cigarettes per day (dots further to the right) are more likely to have lung cancer (dots higher up).
+- The red trendline helps to see this relationship clearly, showing that as smoking increases, so does the chance of getting lung cancer.
+
+This plot helps to understand that smoking more cigarettes per day is strongly associated with a higher risk of lung cancer.
+
+
 
 ## Contribution
 
